@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TServ", "TServ\TServ.csproj", "{650BE9A4-DE63-4F0A-B89E-58B0BA016900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toast", "Toast\Toast.csproj", "{F2C6BC9D-B617-46C4-8EC2-4ABA54E49F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650BE9A4-DE63-4F0A-B89E-58B0BA016900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650BE9A4-DE63-4F0A-B89E-58B0BA016900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650BE9A4-DE63-4F0A-B89E-58B0BA016900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650BE9A4-DE63-4F0A-B89E-58B0BA016900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C6BC9D-B617-46C4-8EC2-4ABA54E49F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C6BC9D-B617-46C4-8EC2-4ABA54E49F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C6BC9D-B617-46C4-8EC2-4ABA54E49F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C6BC9D-B617-46C4-8EC2-4ABA54E49F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F5826CE-D0A0-456F-BC0D-B340030CE2DD}
+	EndGlobalSection
+EndGlobal
